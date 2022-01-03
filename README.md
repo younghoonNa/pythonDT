@@ -13,3 +13,6 @@
 
 ---
 4일차 : 머신러닝에 대해, KNN Linear_Model
+
+---
+5일차 : Decision Tree, RandomForest_Regressor, LogisticRegression, GridSearch, Ensemble, 
