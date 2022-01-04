@@ -20,3 +20,7 @@
 ---
 6일차 : Ensemble Model (LGBM, XGB), 비지도학습, 딥러닝 기초
 
+---
+7일차 : CNN, RNN, DNN
+
+
